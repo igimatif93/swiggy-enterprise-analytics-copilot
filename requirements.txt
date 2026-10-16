@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+chromadb
+pymysql
+sqlalchemy
+pandas
+openpyxl

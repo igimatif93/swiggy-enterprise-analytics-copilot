@@ -1,0 +1,6 @@
+campaign_id,campaign_name,channel,objective
+NONE,No Campaign,NONE,NONE
+PUSH_101,Push: Lunch Deals,PUSH,INCREASE_ORDERS
+POPUP_202,In-app Popup: 20% Off,INAPP_POPUP,COUPON_ADOPTION
+EMAIL_303,Email: Weekend Special,EMAIL,REACTIVATION
+PAID_404,Paid Ads: New Users,PAID_MEDIA,ACQUISITION

@@ -1,0 +1,117 @@
+restaurant_product_id,restaurant_name,product_name,city,restaurant_geo_id,cuisine_tag,list_price
+1,Paradise,Chicken Biryani,Hyderabad,2,Hyderabadi,282
+2,Paradise,Mutton Biryani,Hyderabad,2,Chinese,254
+3,Paradise,Veg Biryani,Hyderabad,2,South Indian,289
+4,Paradise,Chicken 65,Hyderabad,2,South Indian,189
+5,Paradise,Apollo Fish,Hyderabad,2,North Indian,109
+6,Paradise,Double Ka Meetha,Hyderabad,2,Andhra,109
+7,Paradise,Kebab Platter,Hyderabad,2,Cafe,191
+8,Bawarchi,Hyderabadi Dum Biryani,Hyderabad,2,Desserts,295
+9,Bawarchi,Paneer Butter Masala,Hyderabad,2,Hyderabadi,99
+10,Bawarchi,Tandoori Chicken,Hyderabad,2,Hyderabadi,144
+11,Bawarchi,Chicken Fried Rice,Hyderabad,2,Andhra,99
+12,Bawarchi,Rumali Roti,Hyderabad,2,South Indian,99
+13,Bawarchi,Gulab Jamun,Hyderabad,2,South Indian,131
+14,Mehfil,Special Chicken Biryani,Hyderabad,9,Hyderabadi,174
+15,Mehfil,Mutton Keema,Hyderabad,9,Cafe,60
+16,Mehfil,Chicken Lollipop,Hyderabad,9,South Indian,95
+17,Mehfil,Chicken Shawarma,Hyderabad,9,Cafe,74
+18,Mehfil,Raita,Hyderabad,9,Desserts,134
+19,Mehfil,Mirchi Ka Salan,Hyderabad,9,South Indian,79
+20,Shah Ghouse,Mutton Biryani,Hyderabad,8,Chinese,196
+21,Shah Ghouse,Chicken Haleem,Hyderabad,8,Hyderabadi,186
+22,Shah Ghouse,Sheek Kebab,Hyderabad,8,North Indian,110
+23,Shah Ghouse,Mandi Chicken,Hyderabad,8,Desserts,263
+24,Shah Ghouse,Tandoori Roti,Hyderabad,8,Continental,60
+25,Shah Ghouse,Khubani Ka Meetha,Hyderabad,8,Chinese,96
+26,Pista House,Haleem,Hyderabad,3,South Indian,125
+27,Pista House,Chicken Biryani,Hyderabad,3,Continental,208
+28,Pista House,Mutton Biryani,Hyderabad,3,Andhra,277
+29,Pista House,Nihari,Hyderabad,3,Andhra,93
+30,Pista House,Phirni,Hyderabad,3,Desserts,107
+31,Pista House,Irani Chai,Hyderabad,3,Andhra,93
+32,Chutneys,Masala Dosa,Hyderabad,6,Continental,203
+33,Chutneys,Pesarattu,Hyderabad,6,Chinese,119
+34,Chutneys,Idli Vada,Hyderabad,6,Hyderabadi,72
+35,Chutneys,Veg Biryani,Hyderabad,6,Bakery,297
+36,Chutneys,Curd Rice,Hyderabad,6,Cafe,65
+37,Chutneys,Filter Coffee,Hyderabad,6,Andhra,129
+38,Meridian,Mutton Biryani,Hyderabad,7,Andhra,172
+39,Meridian,Chicken Biryani,Hyderabad,7,Cafe,200
+40,Meridian,Chicken 65,Hyderabad,7,Chinese,129
+41,Meridian,Mutton Fry,Hyderabad,7,Continental,153
+42,Meridian,Raita,Hyderabad,7,South Indian,128
+43,Meridian,Salan,Hyderabad,7,Andhra,115
+44,Ram Ki Bandi,Butter Dosa,Hyderabad,1,South Indian,106
+45,Ram Ki Bandi,Onion Dosa,Hyderabad,1,Chinese,60
+46,Ram Ki Bandi,Podi Idli,Hyderabad,1,Andhra,88
+47,Ram Ki Bandi,Upma,Hyderabad,1,South Indian,99
+48,Ram Ki Bandi,Kesari Bath,Hyderabad,1,Andhra,168
+49,Karachi Bakery Cafe,Puffs,Hyderabad,7,Chinese,135
+50,Karachi Bakery Cafe,Chicken Sandwich,Hyderabad,7,Bakery,60
+51,Karachi Bakery Cafe,Veg Sandwich,Hyderabad,7,Continental,135
+52,Karachi Bakery Cafe,Pastries,Hyderabad,7,North Indian,103
+53,Karachi Bakery Cafe,Tea,Hyderabad,7,Continental,90
+54,Karachi Bakery Cafe,Coffee,Hyderabad,7,Continental,148
+55,Cream Stone,Chocolate Fantasy,Hyderabad,4,Chinese,236
+56,Cream Stone,Oreo Overload,Hyderabad,4,Andhra,162
+57,Cream Stone,Fruit Exotica,Hyderabad,4,North Indian,82
+58,Cream Stone,Waffle Sundae,Hyderabad,4,Cafe,176
+59,Cream Stone,Brownie Blast,Hyderabad,4,South Indian,205
+60,Truffles,Classic Burger,Bangalore,13,Bakery,164
+61,Truffles,Peri Peri Chicken Burger,Bangalore,13,Desserts,98
+62,Truffles,Pasta Alfredo,Bangalore,13,Chinese,112
+63,Truffles,Steak Sizzler,Bangalore,13,Cafe,210
+64,Truffles,Nachos,Bangalore,13,South Indian,66
+65,Truffles,Chocolate Fudge,Bangalore,13,Continental,227
+66,Truffles,Chicken Wings,Bangalore,13,Hyderabadi,181
+67,Nagarjuna,Andhra Meals,Bangalore,14,Hyderabadi,257
+68,Nagarjuna,Chicken Biryani,Bangalore,14,Continental,305
+69,Nagarjuna,Mutton Curry,Bangalore,14,Desserts,276
+70,Nagarjuna,Gongura Chicken,Bangalore,14,Chinese,91
+71,Nagarjuna,Prawn Fry,Bangalore,14,Andhra,276
+72,Nagarjuna,Curd Rice,Bangalore,14,South Indian,189
+73,CTR (Central Tiffin Room),Benna Masala Dosa,Bangalore,20,Continental,118
+74,CTR (Central Tiffin Room),Idli Vada,Bangalore,20,South Indian,190
+75,CTR (Central Tiffin Room),Kesari Bath,Bangalore,20,Bakery,60
+76,CTR (Central Tiffin Room),Poori Sagu,Bangalore,20,Desserts,157
+77,CTR (Central Tiffin Room),Filter Coffee,Bangalore,20,Bakery,124
+78,MTR,Masala Dosa,Bangalore,13,Chinese,107
+79,MTR,Rava Idli,Bangalore,13,North Indian,124
+80,MTR,Bisi Bele Bath,Bangalore,13,South Indian,60
+81,MTR,Pongal,Bangalore,13,Cafe,110
+82,MTR,Sweet Sambar,Bangalore,13,Cafe,136
+83,MTR,Filter Coffee,Bangalore,13,Chinese,187
+84,Empire Restaurant,Shawarma,Bangalore,20,Desserts,97
+85,Empire Restaurant,Grill Chicken,Bangalore,20,Desserts,84
+86,Empire Restaurant,Chicken Kebab,Bangalore,20,Continental,97
+87,Empire Restaurant,Chicken Biryani,Bangalore,20,South Indian,301
+88,Empire Restaurant,Butter Chicken,Bangalore,20,North Indian,135
+89,Empire Restaurant,Rumali Roti,Bangalore,20,Cafe,96
+90,Vidyarthi Bhavan,Masala Dosa,Bangalore,18,Andhra,143
+91,Vidyarthi Bhavan,Khara Bath,Bangalore,18,Hyderabadi,124
+92,Vidyarthi Bhavan,Coffee,Bangalore,18,Andhra,164
+93,Vidyarthi Bhavan,Idli,Bangalore,18,North Indian,88
+94,Vidyarthi Bhavan,Vada,Bangalore,18,North Indian,105
+95,Meghana Foods,Boneless Chicken Biryani,Bangalore,17,Andhra,242
+96,Meghana Foods,Chicken Pepper Dry,Bangalore,17,Desserts,60
+97,Meghana Foods,Paneer Ghee Roast,Bangalore,17,Desserts,133
+98,Meghana Foods,Chicken 65,Bangalore,17,Bakery,132
+99,Meghana Foods,Fish Fry,Bangalore,17,Cafe,120
+100,Meghana Foods,Raita,Bangalore,17,Chinese,109
+101,Udupi Sri Krishna Bhavan,Set Dosa,Bangalore,19,Hyderabadi,60
+102,Udupi Sri Krishna Bhavan,Idli Vada,Bangalore,19,Andhra,101
+103,Udupi Sri Krishna Bhavan,Neer Dosa,Bangalore,19,Cafe,105
+104,Udupi Sri Krishna Bhavan,Upma,Bangalore,19,Chinese,84
+105,Udupi Sri Krishna Bhavan,Curd Rice,Bangalore,19,Continental,113
+106,Udupi Sri Krishna Bhavan,Coffee,Bangalore,19,Andhra,138
+107,Smoor,Chocolate Cake,Bangalore,15,Desserts,275
+108,Smoor,Brownie,Bangalore,15,North Indian,198
+109,Smoor,Croissant,Bangalore,15,Bakery,132
+110,Smoor,Hot Chocolate,Bangalore,15,Hyderabadi,187
+111,Smoor,Cheesecake,Bangalore,15,Chinese,104
+112,Corner House,Death By Chocolate,Bangalore,19,North Indian,189
+113,Corner House,Hot Chocolate Fudge,Bangalore,19,Cafe,193
+114,Corner House,Gadbad Ice Cream,Bangalore,19,Andhra,301
+115,Corner House,Brownie Sundae,Bangalore,19,Chinese,181
+116,Corner House,Fruit Salad,Bangalore,19,Cafe,134

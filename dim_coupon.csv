@@ -1,0 +1,7 @@
+coupon_id,coupon_name,discount_type,discount_value,max_discount,min_order
+NONE,No Coupon,NONE,0,0,0
+WELCOME50,Welcome 50% (cap 150),PCT,50,150,199
+SAVE80,Flat 80 off,FLAT,80,80,249
+FREESHIP,Free Delivery (flat 40),FLAT,40,40,149
+WEEKEND20,Weekend 20% (cap 100),PCT,20,100,299
+PAYDAY15,Payday 15% (cap 120),PCT,15,120,249
